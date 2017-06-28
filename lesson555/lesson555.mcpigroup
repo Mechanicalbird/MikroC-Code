@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\my-micro3\my Micro3.mcppi
+Project1=..\lesson444\lesson444.mcppi
+Project2=lesson555.mcppi
+[ActiveProject]
+Index=2
